@@ -391,6 +391,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#contents) Instagram
 
+* [BioAnalyzer](https://github.com/dalunacrobate/BioAnalyzer)
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
 * [Picodash](https://www.picodash.com)
